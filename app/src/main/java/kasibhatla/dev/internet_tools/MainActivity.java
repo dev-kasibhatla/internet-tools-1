@@ -222,6 +222,7 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 /**
+ * 
  * Android Drive Quickstart activity. This activity takes a photo and saves it in Google Drive. The
  * user is prompted with a pre-made dialog which allows them to choose the file location.
  */
